@@ -13,9 +13,7 @@ A modern and responsive static website built for promoting and showcasing an aut
   
 - HTML5, CSS3, and JavaScript (vanilla)
 
-## Live Demo
-
-(https://Harshadasalunke.github.io/car_static_website_enhanced/index.html)  
+  
 
 
 
